@@ -3,3 +3,4 @@ sidrapy
 seaborn
 matplotlib
 xlrd
+yfinance
