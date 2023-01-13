@@ -1,0 +1,5 @@
+wget
+sidrapy
+seaborn
+matplotlib
+xlrd
